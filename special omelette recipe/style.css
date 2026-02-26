@@ -1,0 +1,102 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Page */
+body {
+  background-color: #f3e5d8;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5f564d;
+  display: flex;
+  justify-content: center;
+}
+
+/* Card */
+.card {
+  width: 700px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px;
+  margin: 40px 0;
+}
+
+/* Image */
+.card img {
+  width: 100%;
+  border-radius: 15px;
+  margin-bottom: 25px;
+}
+
+/* Headings */
+h1 {
+  color: #302d2c;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #854632;
+  margin: 25px 0 15px;
+}
+
+h3 {
+  color: #7b284f;
+  margin-bottom: 10px;
+}
+
+/* Description */
+.description {
+  line-height: 1.6;
+  margin-bottom: 25px;
+}
+
+/* Preparation box */
+.preparation {
+  background-color: #fff5fa;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 25px;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+/* Divider */
+hr {
+  border: none;
+  border-top: 1px solid #e3ddd7;
+  margin: 30px 0;
+}
+
+/* Nutrition */
+.Nutrition p {
+  margin-bottom: 15px;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table tr {
+  border-bottom: 1px solid #e3ddd7;
+}
+
+table td {
+  padding: 12px 0;
+}
+
+table td:last-child {
+  color: #854632;
+  font-weight: bold;
+}
