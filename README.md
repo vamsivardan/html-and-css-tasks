@@ -8,5 +8,7 @@ The purpose of this repository is to showcase my hands-on practice and understan
 - Building simple and responsive web pages
   
 COMPLETED TASKS:
+
 1.Special Omelette Recipe
+
 2.Profile Bio Card
