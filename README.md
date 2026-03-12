@@ -1,14 +1,23 @@
-This repository contains the tasks I completed during my "FULL STACK DEVELOPMENT" while learning the fundamentals of *HTML* and *CSS*.
+SPECIAL OMELETTE RECIPE:
 
-## 📌 About the Repository
+The Special Omelette Recipe project demonstrates how to create a structured and visually appealing recipe page using HTML and CSS. It helps beginners practice organizing content using headings, lists, and styled sections.
 
-The purpose of this repository is to showcase my hands-on practice and understanding of basic web development concepts such as:
-- HTML structure and semantic elements
-- CSS styling and layouts
-- Building simple and responsive web pages
-  
-COMPLETED TASKS:
+This project is part of my Full Stack Development Internship, where I am learning the basics of frontend development.
 
-1.Special Omelette Recipe
+🚀 Features
 
-2.Profile Bio Card
+Clean and simple recipe page layout
+
+Sections for ingredients, preparation time, and instructions
+
+Use of headings, lists, and paragraphs
+
+Styled design using CSS
+
+Beginner-friendly project
+
+🛠️ Technologies Used
+
+HTML5 – for webpage structure
+
+CSS3 – for styling and layout
